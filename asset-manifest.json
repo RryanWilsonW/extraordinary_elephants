@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/extraordinary_elephants/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/extraordinary_elephants/static/js/main.fd44a533.chunk.js",
+    "main.js.map": "/extraordinary_elephants/static/js/main.fd44a533.chunk.js.map",
+    "runtime-main.js": "/extraordinary_elephants/static/js/runtime-main.e1057c94.js",
+    "runtime-main.js.map": "/extraordinary_elephants/static/js/runtime-main.e1057c94.js.map",
+    "static/js/2.ad70d9e1.chunk.js": "/extraordinary_elephants/static/js/2.ad70d9e1.chunk.js",
+    "static/js/2.ad70d9e1.chunk.js.map": "/extraordinary_elephants/static/js/2.ad70d9e1.chunk.js.map",
+    "static/js/3.4433182a.chunk.js": "/extraordinary_elephants/static/js/3.4433182a.chunk.js",
+    "static/js/3.4433182a.chunk.js.map": "/extraordinary_elephants/static/js/3.4433182a.chunk.js.map",
+    "index.html": "/extraordinary_elephants/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/extraordinary_elephants/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ad70d9e1.chunk.js.LICENSE.txt": "/extraordinary_elephants/static/js/2.ad70d9e1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/extraordinary_elephants/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1057c94.js",
+    "static/js/2.ad70d9e1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fd44a533.chunk.js"
+  ]
+}
